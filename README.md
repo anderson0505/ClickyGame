@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2485,10 +2484,3 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
-=======
-# ClickyGame
-
-A React app that will allow the user to click images and keep track of how many consecutive images they click without clicking a duplicate picture during that session.
-
-Max score is 12 points and on the 13th attempt, the game will reset.
->>>>>>> 01a98fbe66b4c4c247d5e1d9abca58a565238397
